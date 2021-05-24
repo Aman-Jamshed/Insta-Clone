@@ -235,8 +235,8 @@ function App() {
         </div>
         <div className="app__postsRight">
               <InstagramEmbed
-            url='https://www.instagram.com/p/CNxknP5LKMF/'
-            clientAccessToken= '149404757213614|1281f2334c6c3f574340f01aacc1b7c6'
+            url='https://www.instagram.com/p/***********/'
+            clientAccessToken= '********************'
             maxWidth={320}
             hideCaption={false}
             containerTagName='div'
